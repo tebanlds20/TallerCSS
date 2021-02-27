@@ -1,0 +1,54 @@
+body{
+	background-color:black;
+}	
+.titulos{
+	background-color:rgb(255, 255, 51);
+	font-weight:bold;
+	text-align:center;
+}	
+div#logop{
+	width:15%;
+	margin: 0px auto;
+}	
+.listas{
+	background-color:rgb(255, 255, 51);
+	width:12%;
+}	
+div#lista{
+	float:left;
+	font-weight:bold;
+	text-align:center;
+	height:782px;
+}	
+div#lista2{
+	float:right;
+	font-weight:bold;
+	text-align:center;
+	height:782px;
+}	
+.descripciones{
+	text-align:center;
+	font-weight:bold;
+	color:white;
+}	
+div#imgprincipal{
+	text-align:center;
+}	
+.footer{
+	text-align:center;
+	background-color:rgb(255, 255, 51); 
+	color:black;
+	font-weight:bold;
+}
+.logos{
+	text-align:center;
+}	
+.nombremarca{
+	text-align:center;
+	font-weight:bold;
+	color:rgb(255, 255, 51);
+}	
+	
+	
+	
+	

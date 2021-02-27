@@ -1,0 +1,48 @@
+body{
+	background-color: #767676;
+}	
+div#titulo{
+	color:white;
+	text-align:center;
+}	
+.bandera{
+	width: 500px;
+	height: 300px;
+	margin: 0px auto;
+}	
+.col1{
+	background-color:red;
+	height:150%;
+	width:3%;
+	float:left;
+}	
+.col2{
+	background-color:blue;
+	height:150%;
+	width:3%;
+	float:left;
+}	
+.col3{
+	background-color:yellow;
+	height:150%;
+	width:8%;
+	float:left;
+}
+.col4{
+	background-color:red;
+	height:150%;
+	width:16%;
+	float:left;
+}
+.col5{
+	background-color:blue;
+	height:150%;
+	width:27%;
+	float:left;
+}
+.col6{
+	background-color:yellow;
+	height:150%;
+	width:37%;
+	float:left;
+}

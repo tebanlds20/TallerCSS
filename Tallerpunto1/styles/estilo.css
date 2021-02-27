@@ -1,0 +1,23 @@
+body{
+	background-color:rgb(179,204,255);
+	text-align:center;
+	font-weight:bold;
+}	
+div#ppp{
+	font-style: italic;
+}	
+.titulos{
+	background-color:blue;
+	color:white;
+}	
+.tabla{
+	margin: 0px auto;
+	border:1px solid;
+	border-collapse:collapse;
+}	
+.tabla td{
+	border:1px solid;
+}	
+div#fa{
+	font-style: italic;
+}	
